@@ -1,5 +1,5 @@
 # movie
-
+Users can look up movie's information, write and manage reviews, add movies into favorite lists and change order of movies in the favorite list.</br>
 ###frontend</br>
 I set up the router that process url request and go to the right file. I also set up the app page with navigation tools. I set up the server that communicates with the back-end API to respond data. I added methods to the movie list and movie class which use the router methods. Inside the class, I initiated the variables with useState and used useCallback to create functions which are used in useEffect. I added the return component for both pages.
 
