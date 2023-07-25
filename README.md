@@ -1,4 +1,4 @@
-# movie
+# Movie
 Movie application written by the MERN stack. Users can look up movie information, write and manage reviews, add movies to their favorite list, and change the order of movies in the favorite list through a ReactDND drag-and-drop interface.</br>
 # Development Process
 ### Frontend</br>
